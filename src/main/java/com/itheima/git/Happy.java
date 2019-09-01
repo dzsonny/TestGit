@@ -4,7 +4,7 @@ public class Happy {
 	
 	
 	public static void mian(String[] args) {
-		System.out.println("Test...");
+		System.out.println("left...");
 	}
 
 }
